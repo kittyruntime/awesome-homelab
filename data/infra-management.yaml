@@ -25,6 +25,13 @@
 - name: CasaOS
   url: https://github.com/IceWhaleTech/CasaOS
 
+- name: HSI (Home Server Interface)
+  url: https://github.com/kittyruntime/home-server-interface
+  description: >-
+    Web interface for managing a home server, including Docker apps, storage,
+    file sharing, backups, and monitoring.
+    [Documentation](https://kittyruntime.github.io/home-server-interface/).
+
 - name: Cosmos
   url: 'https://github.com/azukaar/Cosmos-Server'
 
